@@ -1,3 +1,3 @@
 # test
-test repository for git commands demostration
+test repository for git commands demonstration .
 
